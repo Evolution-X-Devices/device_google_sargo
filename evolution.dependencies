@@ -2,5 +2,13 @@
   {
     "repository": "device_google_bonito",
     "target_path": "device/google/bonito"
+  },
+  {
+    "repository": "vendor_google_sargo",
+    "target_path": "vendor/google/sargo"
+  },
+  {
+    "repository": "vendor_google_bonito",
+    "target_path": "vendor/google/bonito"
   }
 ]
